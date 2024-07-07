@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "core-js": "^3.37.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemailer": "^6.9.14"
+  }
+  ,"script":{
+    "start": "node referral.js",
+    "server": "nodemon referral.js"
+  }
+}
