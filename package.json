@@ -9,7 +9,7 @@
     "mongoose": "^8.4.4",
     "nodemailer": "^6.9.14"
   }
-  ,"script":{
+  ,"scripts":{
     "start": "node referral.js",
     "server": "nodemon referral.js"
   }
